@@ -21,6 +21,6 @@ Throughout this internship, I applied a range of technical and soft skills, incl
 I am immensely grateful to the Technohacks team for providing me with this valuable internship opportunity. Their guidance and mentorship have significantly contributed to my growth as a data analyst.
 
 📬 Contact:
-I'm excited to share my work and connect with fellow data enthusiasts, professionals, and potential collaborators. Feel free to reach out to me via email at [your@email.com] or connect with me on LinkedIn [www.linkedin.com/in/pallimounika].
+I'm excited to share my work and connect with fellow data enthusiasts, professionals, and potential collaborators. Feel free to reach out to me via email at [monimounika2468@email.com] or connect with me on LinkedIn [www.linkedin.com/in/pallimounika].
 
 Thank you for visiting my repository! Your feedback and suggestions are highly appreciated.
